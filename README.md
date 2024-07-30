@@ -105,7 +105,7 @@ DVC
 
 	
 ## 3. Create ECR repo to store/save docker image
-    - Save the URI: 566373416292.dkr.ecr.us-east-1.amazonaws.com/chicken
+    - Save the URI: 058264477753.dkr.ecr.ap-south-1.amazonaws.com/cnnclassifier
 
 	
 ## 4. Create EC2 machine (Ubuntu) 
